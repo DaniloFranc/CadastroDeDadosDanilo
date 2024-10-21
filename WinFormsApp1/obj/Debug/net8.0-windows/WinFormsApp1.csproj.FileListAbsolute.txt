@@ -1,0 +1,120 @@
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Seleção\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Seleção\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Seleção\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Danilo Franco\Desktop\Seleção\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Danilo Franco\Desktop\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\HD2024\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Seleção - Danilo Franco de Oliveira\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
